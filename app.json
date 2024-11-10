@@ -1,16 +1,16 @@
 
 {
-  "name": "gifted-md",
+  "name": "Favor",
   "description": "I am Gifted-Md WhatsApp MultiDevice Bot built in NodeJs to enhance the experience",
   "website": "https://session.giftedtech.my.id",
   "logo": "https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg",
   "keywords": ["gifted-md", "giftedtech", "Gifted-Md"],
-  "repository": "https://github.com/mouricedevs/gifted",
+  "repository": "https://github.com/Babyfx/gifted",
   "success_url": "/",
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Your session id. Must Start with Gifted~",
+      "description": "Gifted~XhaDcNrG",
       "required": true
     },
     "MODE": {
@@ -21,17 +21,17 @@
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
       "required": true,
-      "value": "Gifted Tech"
+      "value": "Babyfx"
     },
     "OWNER_NUMBER": {
       "description": "Put Owner Number Here",
       "required": true,
-      "value": "254762016957"
+      "value": "256761396309,256758183519"
     },
     "SUDO_NUMBERS": {
       "description": "Put Sudo Numbers separated by comma Here. Sudos are limited to owner commands else leave blank",
       "required": false,
-      "value": "254762016957,254728746852,254742063632"
+      "value": "256758183519"
     },
     "AUTO_READ_STATUS": {
       "description": "Make it true if you want bot to view status else leave blank",
@@ -51,7 +51,7 @@
     "STATUS_READ_MSG": {
       "description": "set your status reply message to be sent after bot views status else leave blank",
       "required": false,
-      "value": "Status Viewed by Gifted-Md"
+      "value": ""
     },
     "AUTO_READ_MESSAGES": {
       "description": "Make it true if you want bot to always read messages else leave blank",
